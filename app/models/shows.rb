@@ -1,4 +1,4 @@
-class Show
+class Show < 
 
 
 end
