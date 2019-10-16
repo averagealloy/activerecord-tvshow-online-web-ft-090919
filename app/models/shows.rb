@@ -1,1 +1,1 @@
-class show
+class S
