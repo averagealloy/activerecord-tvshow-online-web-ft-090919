@@ -1,6 +1,6 @@
 class AddSeasonToShow < ActiveRecord::Base
 def change
- add_colum :shows, :season, :string 
+ add_column :shows, :season, :string 
 end
 
 end
