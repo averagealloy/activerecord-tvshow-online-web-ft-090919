@@ -20,5 +20,7 @@ def self.least_popular_show
 
 end
 
-def self.rating_su
+def self.rating_sum
+
+end 
 end
