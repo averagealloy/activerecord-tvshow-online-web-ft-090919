@@ -24,7 +24,7 @@ def self.ratings_sum
 self.sum(:rating)
 end
 
-def self
+def self.
 
 
 end
