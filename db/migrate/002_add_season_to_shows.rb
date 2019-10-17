@@ -1,6 +1,6 @@
 class AddSeasonToShow < ActiveRecord::Base
 def change
-
-end 
+ add
+end
 
 end
