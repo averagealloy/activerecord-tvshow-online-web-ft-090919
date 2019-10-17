@@ -10,5 +10,5 @@ self.where("rating = ?", self.highest_rating).first
 
 end
 
-def sell.lowest_rati
+def sell.lowest_rating 
 end
