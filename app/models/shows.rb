@@ -15,5 +15,5 @@ self.minimum(:rating)
 end
 
 def self.least_popular_show
-  self.where("rating = ?", self.highest_rating).first
+  self.where("rating = ?", self.lo_rating).first
 end
