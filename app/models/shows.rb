@@ -14,5 +14,5 @@ def self.lowest_rating
 self.minimum(:rating)
 end
 
-def 
+def self 
 end
