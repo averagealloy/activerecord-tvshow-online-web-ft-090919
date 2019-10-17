@@ -6,7 +6,7 @@ end
 
 
 def self.most_popular_show
-self.where("rating = ?, self")
+self.where("rating = ?, self.hi")
 
 end
 end
