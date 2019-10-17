@@ -14,5 +14,5 @@ def self.lowest_rating
 self.minimum(:rating)
 end
 
-def self.least_popular_s
+def self.least_popular_show
 end
