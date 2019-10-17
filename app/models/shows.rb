@@ -20,7 +20,7 @@ def self.least_popular_show
 
 end
 
-def self.rating_sum
+def self.ratings_sum
 self.sum(:rating)
 end
 
