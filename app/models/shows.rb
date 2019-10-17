@@ -6,7 +6,7 @@ end
 
 
 def self.most_popular_show
-self.where()
+self.where("rati")
 
 end
 end
