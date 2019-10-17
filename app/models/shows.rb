@@ -29,6 +29,3 @@ self.where("rating >= ?", 5)
 end
 
 end
-
-
-end
