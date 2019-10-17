@@ -25,7 +25,7 @@ self.sum(:rating)
 end
 
 def self.popular_shows
-self.where("rating >= ?", self.lowest_)
+self.where("rating >= ?", self.lowest_rat)
 
 end
 
