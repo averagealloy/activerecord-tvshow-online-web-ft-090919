@@ -20,5 +20,5 @@ def self.least_popular_show
 
 end
 
-def self.rat
+def self.rating_su
 end
