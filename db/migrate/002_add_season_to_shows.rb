@@ -1,4 +1,4 @@
-class AddSeasonShow < ActiveRecord::Base
+class AddSeasonToShow < ActiveRecord::Base
 
 
 end
