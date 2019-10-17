@@ -1,5 +1,5 @@
 class Show < ActiveRecord::Base
 
-def self.highest ra
+def self.highest rating 
 
 end
