@@ -5,7 +5,7 @@ def self.highest_rating
 end
 
 
-def self
+def self.most_
 
 end
 end
