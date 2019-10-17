@@ -11,6 +11,6 @@ self.where("rating = ?", self.highest_rating).first
 end
 
 def sell.lowest_rating
-self.min
+self.mini
 end
 end
