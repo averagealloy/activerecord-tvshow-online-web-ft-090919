@@ -22,5 +22,5 @@ end
 
 def self.rating_sum
 
-end 
+end
 end
